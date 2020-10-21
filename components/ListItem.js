@@ -15,6 +15,7 @@ const ListItem = ({item, deleteItem, editItem}) => {
   return(
     <TouchableOpacity style={styles.listItem}>
     <View style={styles.listItemView}>
+        <Icon name="checkbox" size={20} style={styles.btn} color="firebrick" />
         {isEditing
             ? <TextInput placeholder={item.text} value={text} onChangeText={setText} style={styles.listItemText}/>
             : <Text style={styles.listItemText}>{item.text}</Text>
