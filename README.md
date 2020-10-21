@@ -1,7 +1,7 @@
 # Shopping List 
 
-**React Native:** 
-First React Native Application. 
+**React Native:** <br/>
+First React Native Application. <br/>
 Expanding on tutorial from Traversy Media: 
 [React Native Crash Course 2020](https://www.youtube.com/watch?v=Hf4MJH0jDb4)
 
@@ -9,8 +9,8 @@ Expanding on tutorial from Traversy Media:
 
 ## Technologies - Dependencies 
 
-React 
-React Native 
-React Native Vector Icons
-UUIDV4
+React <br/>
+React Native <br/>
+React Native Vector Icons <br/>
+UUIDV4 <br/>
 
